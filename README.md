@@ -79,6 +79,6 @@ TV AVG Rating = CALCULATE(
 ## Access the Dashboard
 You can view and interact with the full dashboard by opening the uploaded Power BI file:
 
-📁 Netflix_Performance_Dashboard.pbix
+📁 Netflix Advanced BI Project.pbix
 
 Simply download the .pbix file from this repository and open it using Power BI Desktop.
