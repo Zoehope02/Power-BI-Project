@@ -1,7 +1,7 @@
 # Power-BI-Project
 Netflix TV Show &amp; Movie Analysis
 
-## Objective 
+# Objective 
 This project aims to compare the performance of TV shows and movies, using customer satisfaction as the main metric. By analyzing ratings and votes, it evaluates how well different titles are performing. The dashboard also includes images and summaries of each show and movie, offering a comprehensive overview and insightful analysis of Netflix's performance.
 
 ## Movies DAX Measures Created: 
