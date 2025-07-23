@@ -73,4 +73,4 @@ TV AVG Rating = CALCULATE(
 )
 ```
 
-
+![Alt Text](netproject.png)
