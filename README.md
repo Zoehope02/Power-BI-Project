@@ -72,4 +72,5 @@ TV AVG Rating = CALCULATE(
     Listings[Listings Type] = "TV Shows"
 )
 ```
-        
+
+
